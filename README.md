@@ -2,7 +2,7 @@
 
 A comprehensive healthcare career assessment platform that helps individuals discover their ideal medical career path through a sophisticated 40-question survey and intelligent classification system.
 
-## 🌟 Features
+## Features
 
 ### Core Functionality
 
@@ -29,7 +29,7 @@ A comprehensive healthcare career assessment platform that helps individuals dis
 - **Mobile-First**: Optimized for mobile and tablet devices
 - **Cross-Browser Compatible**: Works on all modern browsers
 
-## 🏥 Career Categories
+## Career Categories
 
 The assessment classifies users into 6 main healthcare career categories:
 
@@ -69,7 +69,7 @@ The assessment classifies users into 6 main healthcare career categories:
 - **Roles**: Health Informatics Specialists, Software Developers, Data Analysts
 - **Strengths**: Technical proficiency, innovation, problem-solving
 
-## 📊 Survey Structure
+## Survey Structure
 
 The 40-question assessment is organized into 4 main sections:
 
@@ -101,7 +101,7 @@ The 40-question assessment is organized into 4 main sections:
 - Work-life balance preferences
 - Professional legacy goals
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
