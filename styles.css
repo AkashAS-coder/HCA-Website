@@ -409,8 +409,9 @@ body {
 }
 
 .detailed-analysis ul, .next-steps ul {
-    padding-left: 0.8rem;
-    margin-left: 0.5;
+    padding-left: 0;
+    margin-left: 0;
+    list-style-position: inside;
 }
 
 .detailed-analysis li, .next-steps li {
