@@ -408,6 +408,16 @@ body {
     color: #1e293b;
 }
 
+.detailed-analysis ul, .next-steps ul {
+    padding-left: 0.4rem;
+    margin-left: 0;
+}
+
+.detailed-analysis li, .next-steps li {
+    margin-left: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
 #retake-survey {
     display: block;
     margin: 2rem auto 0;
